@@ -15,7 +15,7 @@ public class TestBrowser {
 		//InternetExplorerDriver driver = new InternetExplorerDriver();
 
 		  driver.get("https://google.com/");
-		  //File from local to remote-veera
+		  //File from local to remote-1233
 		
 	}
 
